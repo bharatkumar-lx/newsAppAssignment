@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">NewsAppAssignment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sign_in_message">SignIn into your Account</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="email_placeholder">johndoe@gmail.com</string>
+    <string name="password_placeholder">Password</string>
+    <string name="forget_password">Forget Password ?</string>
+    <string name="not_have_account">Don\'t have an account ? </string>
+    <string name="register">Register Now</string>
+    <string name="search">Search in feed</string>
+    <string name="news_title">News Title</string>
+    <string name="news_description">News Description</string>
+    <string name="create_account">Create Account</string>
+    <string name="name">Name</string>
+    <string name="name_placeholder">John doe</string>
+    <string name="contact">Contact no</string>
+    <string name="number">9876543210</string>
+    <string name="tc"><u>term &amp; condition</u></string>
+    <string name="have_account">Already have an Account ? </string>
+    <string name="sign_in">Sign In</string>
+
+    <string name="facebook_app_id">1234</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">56789</string>
+
+
+
+</resources>

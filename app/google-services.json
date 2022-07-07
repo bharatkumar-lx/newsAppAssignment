@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "608679689217",
+    "project_id": "androidprojects-331011",
+    "storage_bucket": "androidprojects-331011.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608679689217:android:6ffe3ef5efb246c6149400",
+        "android_client_info": {
+          "package_name": "com.bharat.newsappassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608679689217-s9dklpa0ur74ohsalrovec6tqd6sag8b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1KlNLmult66IxTzRT_z1l_a2FG-DVE2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608679689217-s9dklpa0ur74ohsalrovec6tqd6sag8b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
